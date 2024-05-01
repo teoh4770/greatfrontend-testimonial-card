@@ -28,4 +28,6 @@ Run npm run start or pnpm run start or yarn start to get the project started.
 Open http://localhost:5173 (or the address shown in your console) in your web browser to view the app.
 
 🍿 Video
-[incoming]
+
+https://github.com/teoh4770/greatfrontend-testimonial-card/assets/98545971/33efa7d5-59fe-47b9-aaf0-6353311f2b2a
+
