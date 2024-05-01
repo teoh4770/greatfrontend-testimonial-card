@@ -25,6 +25,7 @@ body {
   font-weight: 400;
 
   margin: 0;
+  background: linear-gradient(90deg, #F9FAFB, #D2D6DB);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;

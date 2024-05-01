@@ -5,7 +5,7 @@ import { TestimonialCard } from './components'
 function App() {
   return (
     <>
-      <div className="grid h-screen place-items-center bg-gradient-to-br from-[#F9FAFB] to-[#D2D6DB] px-4">
+      <div className="flex justify-center pt-[200px] px-4">
         <TestimonialCard
           profileThumbnail={profileThumbnail}
           fullName="Sarah Dole"
