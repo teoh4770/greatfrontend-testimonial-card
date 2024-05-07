@@ -5,7 +5,7 @@ import { TestimonialCard } from './components'
 function App() {
   return (
     <>
-      <div className="flex justify-center pt-[200px] px-4">
+      <div className="flex justify-center mt-[200px] px-4">
         <TestimonialCard
           profileThumbnail={profileThumbnail}
           fullName="Sarah Dole"

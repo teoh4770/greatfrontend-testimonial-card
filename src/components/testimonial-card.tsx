@@ -36,7 +36,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({
         className="testimonialCard__content"
         aria-labelledby="testimonialContent"
       >
-        <p id="testimonialContent" className="text-neutral-600">
+        <p className="text-neutral-600">
           {content}
         </p>
       </blockquote>
